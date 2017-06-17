@@ -4,7 +4,7 @@
 * @param stime  ±º‰º‰∏Ù (∫¡√Î)
 **/
 function gotoTop(acceleration,stime) {
-   acceleration = acceleration || 0.01;
+   acceleration = acceleration || 0.05;
    stime = stime || 10;
    var x1 = 0;
    var y1 = 0;
